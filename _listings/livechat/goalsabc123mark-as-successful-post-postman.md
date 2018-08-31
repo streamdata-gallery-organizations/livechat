@@ -2186,46 +2186,4 @@
       "item": [
         {
           "id": "89f111cc-732d-41e7-8ce8-ce38fadd7efe",
-          "name": "GoalsABC123MarkAsSuccessfulPost",
-          "request": {
-            "url": "http://api.livechatinc.com/goals/ABC123/mark_as_successful",
-            "method": "POST",
-            "header": [
-              {
-                "key": "X-API-Version",
-                "value": "{}",
-                "description": "",
-                "disabled": false
-              },
-              {
-                "key": "Accept",
-                "value": "*/*",
-                "disabled": false
-              }
-            ],
-            "body": {
-              "mode": "urlencoded",
-              "urlencoded": [
-                {
-                  "key": "visitor_id",
-                  "value": "{}",
-                  "disabled": false,
-                  "description": ""
-                }
-              ]
-            },
-            "description": "The GOAL_ID is obtained from the goals list."
-          },
-          "response": [
-            {
-              "status": "OK",
-              "code": 200,
-              "name": "Response_200",
-              "id": "5bc7db6e-4123-4557-b7a8-3b2d7e1878f2"
-            }
-          ]
-        }
-      ]
-    }
-  ]
-}
+   

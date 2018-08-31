@@ -7,8 +7,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28877-deve
 x-kinRank: "7"
 x-alexaRank: "4371"
 tags: LiveChat
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-30"
+modified: "2018-08-30"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/livechat/master/_listings/livechat/apis.md
 specificationVersion: "0.14"
 apis:
@@ -18,7 +18,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28877-developers-livechatinc-com.jpg
   humanURL: https://www.livechatinc.com/
   baseURL: https://api.livechatinc.com//
-  tags: SaaS, Technology, Chat, Support
+  tags: SaaS, Technology, Support, Chats
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-organizations/livechat/master/_listings/livechat/webhooks12345-delete-postman.md
@@ -31,7 +31,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28877-developers-livechatinc-com.jpg
   humanURL: https://www.livechatinc.com/
   baseURL: https://api.livechatinc.com//
-  tags: SaaS, Technology, Chat, Support
+  tags: SaaS, Technology, Support, Chats
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-organizations/livechat/master/_listings/livechat/reportschatsratings-get-postman.md
@@ -43,7 +43,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28877-developers-livechatinc-com.jpg
   humanURL: https://www.livechatinc.com/
   baseURL: https://api.livechatinc.com//
-  tags: SaaS, Technology, Chat, Support
+  tags: SaaS, Technology, Support, Chats
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-organizations/livechat/master/_listings/livechat/canned-responsesabc123-get-postman.md
@@ -56,7 +56,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28877-developers-livechatinc-com.jpg
   humanURL: https://www.livechatinc.com/
   baseURL: https://api.livechatinc.com//
-  tags: SaaS, Technology, Chat, Support
+  tags: SaaS, Technology, Support, Chats
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-organizations/livechat/master/_listings/livechat/canned-responsesabc123-put-postman.md
@@ -68,7 +68,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28877-developers-livechatinc-com.jpg
   humanURL: https://www.livechatinc.com/
   baseURL: https://api.livechatinc.com//
-  tags: SaaS, Technology, Chat, Support
+  tags: SaaS, Technology, Support, Chats
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-organizations/livechat/master/_listings/livechat/canned-responsesabc123-delete-postman.md
@@ -81,7 +81,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28877-developers-livechatinc-com.jpg
   humanURL: https://www.livechatinc.com/
   baseURL: https://api.livechatinc.com//
-  tags: SaaS, Technology, Chat, Support
+  tags: SaaS, Technology, Support, Chats
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-organizations/livechat/master/_listings/livechat/groupsabc123-put-postman.md
@@ -93,7 +93,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28877-developers-livechatinc-com.jpg
   humanURL: https://www.livechatinc.com/
   baseURL: https://api.livechatinc.com//
-  tags: SaaS, Technology, Chat, Support
+  tags: SaaS, Technology, Support, Chats
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-organizations/livechat/master/_listings/livechat/groupsabc123-delete-postman.md
@@ -107,7 +107,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28877-developers-livechatinc-com.jpg
   humanURL: https://www.livechatinc.com/
   baseURL: https://api.livechatinc.com//
-  tags: SaaS, Technology, Chat, Support
+  tags: SaaS, Technology, Support, Chats
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-organizations/livechat/master/_listings/livechat/reportschatsengagement-get-postman.md
@@ -119,7 +119,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28877-developers-livechatinc-com.jpg
   humanURL: https://www.livechatinc.com/
   baseURL: https://api.livechatinc.com//
-  tags: SaaS, Technology, Chat, Support
+  tags: SaaS, Technology, Support, Chats
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-organizations/livechat/master/_listings/livechat/greetings-get-postman.md
@@ -131,7 +131,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28877-developers-livechatinc-com.jpg
   humanURL: https://www.livechatinc.com/
   baseURL: https://api.livechatinc.com//
-  tags: SaaS, Technology, Chat, Support
+  tags: SaaS, Technology, Support, Chats
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-organizations/livechat/master/_listings/livechat/greetings-post-postman.md
@@ -143,7 +143,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28877-developers-livechatinc-com.jpg
   humanURL: https://www.livechatinc.com/
   baseURL: https://api.livechatinc.com//
-  tags: SaaS, Technology, Chat, Support
+  tags: SaaS, Technology, Support, Chats
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-organizations/livechat/master/_listings/livechat/webhooks-get-postman.md
@@ -155,7 +155,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28877-developers-livechatinc-com.jpg
   humanURL: https://www.livechatinc.com/
   baseURL: https://api.livechatinc.com//
-  tags: SaaS, Technology, Chat, Support
+  tags: SaaS, Technology, Support, Chats
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-organizations/livechat/master/_listings/livechat/webhooks-post-postman.md
@@ -170,7 +170,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28877-developers-livechatinc-com.jpg
   humanURL: https://www.livechatinc.com/
   baseURL: https://api.livechatinc.com//
-  tags: SaaS, Technology, Chat, Support
+  tags: SaaS, Technology, Support, Chats
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-organizations/livechat/master/_listings/livechat/reportschatsgreetings-get-postman.md
@@ -182,7 +182,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28877-developers-livechatinc-com.jpg
   humanURL: https://www.livechatinc.com/
   baseURL: https://api.livechatinc.com//
-  tags: SaaS, Technology, Chat, Support
+  tags: SaaS, Technology, Support, Chats
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-organizations/livechat/master/_listings/livechat/tags-get-postman.md
@@ -195,7 +195,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28877-developers-livechatinc-com.jpg
   humanURL: https://www.livechatinc.com/
   baseURL: https://api.livechatinc.com//
-  tags: SaaS, Technology, Chat, Support
+  tags: SaaS, Technology, Support, Chats
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-organizations/livechat/master/_listings/livechat/tags-post-postman.md
@@ -207,7 +207,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28877-developers-livechatinc-com.jpg
   humanURL: https://www.livechatinc.com/
   baseURL: https://api.livechatinc.com//
-  tags: SaaS, Technology, Chat, Support
+  tags: SaaS, Technology, Support, Chats
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-organizations/livechat/master/_listings/livechat/agentsjohnpublic-com-get-postman.md
@@ -219,7 +219,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28877-developers-livechatinc-com.jpg
   humanURL: https://www.livechatinc.com/
   baseURL: https://api.livechatinc.com//
-  tags: SaaS, Technology, Chat, Support
+  tags: SaaS, Technology, Support, Chats
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-organizations/livechat/master/_listings/livechat/agentsjohnpublic-com-put-postman.md
@@ -231,7 +231,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28877-developers-livechatinc-com.jpg
   humanURL: https://www.livechatinc.com/
   baseURL: https://api.livechatinc.com//
-  tags: SaaS, Technology, Chat, Support
+  tags: SaaS, Technology, Support, Chats
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-organizations/livechat/master/_listings/livechat/agentsjohnpublic-com-delete-postman.md
@@ -243,7 +243,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28877-developers-livechatinc-com.jpg
   humanURL: https://www.livechatinc.com/
   baseURL: https://api.livechatinc.com//
-  tags: SaaS, Technology, Chat, Support
+  tags: SaaS, Technology, Support, Chats
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-organizations/livechat/master/_listings/livechat/tickets-get-postman.md
@@ -255,7 +255,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28877-developers-livechatinc-com.jpg
   humanURL: https://www.livechatinc.com/
   baseURL: https://api.livechatinc.com//
-  tags: SaaS, Technology, Chat, Support
+  tags: SaaS, Technology, Support, Chats
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-organizations/livechat/master/_listings/livechat/tickets-post-postman.md
@@ -267,7 +267,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28877-developers-livechatinc-com.jpg
   humanURL: https://www.livechatinc.com/
   baseURL: https://api.livechatinc.com//
-  tags: SaaS, Technology, Chat, Support
+  tags: SaaS, Technology, Support, Chats
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-organizations/livechat/master/_listings/livechat/reportsticketssolved-tickets-get-postman.md
@@ -280,7 +280,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28877-developers-livechatinc-com.jpg
   humanURL: https://www.livechatinc.com/
   baseURL: https://api.livechatinc.com//
-  tags: SaaS, Technology, Chat, Support
+  tags: SaaS, Technology, Support, Chats
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-organizations/livechat/master/_listings/livechat/reportschatsfirst-response-time-get-postman.md
@@ -292,7 +292,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28877-developers-livechatinc-com.jpg
   humanURL: https://www.livechatinc.com/
   baseURL: https://api.livechatinc.com//
-  tags: SaaS, Technology, Chat, Support
+  tags: SaaS, Technology, Support, Chats
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-organizations/livechat/master/_listings/livechat/canned-responses-get-postman.md
@@ -304,7 +304,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28877-developers-livechatinc-com.jpg
   humanURL: https://www.livechatinc.com/
   baseURL: https://api.livechatinc.com//
-  tags: SaaS, Technology, Chat, Support
+  tags: SaaS, Technology, Support, Chats
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-organizations/livechat/master/_listings/livechat/canned-responses-post-postman.md
@@ -316,7 +316,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28877-developers-livechatinc-com.jpg
   humanURL: https://www.livechatinc.com/
   baseURL: https://api.livechatinc.com//
-  tags: SaaS, Technology, Chat, Support
+  tags: SaaS, Technology, Support, Chats
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-organizations/livechat/master/_listings/livechat/reportschatsratingsranking-get-postman.md
@@ -328,7 +328,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28877-developers-livechatinc-com.jpg
   humanURL: https://www.livechatinc.com/
   baseURL: https://api.livechatinc.com//
-  tags: SaaS, Technology, Chat, Support
+  tags: SaaS, Technology, Support, Chats
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-organizations/livechat/master/_listings/livechat/groups-get-postman.md
@@ -340,7 +340,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28877-developers-livechatinc-com.jpg
   humanURL: https://www.livechatinc.com/
   baseURL: https://api.livechatinc.com//
-  tags: SaaS, Technology, Chat, Support
+  tags: SaaS, Technology, Support, Chats
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-organizations/livechat/master/_listings/livechat/groups-post-postman.md
@@ -352,7 +352,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28877-developers-livechatinc-com.jpg
   humanURL: https://www.livechatinc.com/
   baseURL: https://api.livechatinc.com//
-  tags: SaaS, Technology, Chat, Support
+  tags: SaaS, Technology, Support, Chats
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-organizations/livechat/master/_listings/livechat/chatsabc123-get-postman.md
@@ -364,7 +364,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28877-developers-livechatinc-com.jpg
   humanURL: https://www.livechatinc.com/
   baseURL: https://api.livechatinc.com//
-  tags: SaaS, Technology, Chat, Support
+  tags: SaaS, Technology, Support, Chats
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-organizations/livechat/master/_listings/livechat/reportsticketsticket-sources-get-postman.md
@@ -376,7 +376,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28877-developers-livechatinc-com.jpg
   humanURL: https://www.livechatinc.com/
   baseURL: https://api.livechatinc.com//
-  tags: SaaS, Technology, Chat, Support
+  tags: SaaS, Technology, Support, Chats
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-organizations/livechat/master/_listings/livechat/greetingsabc123-get-postman.md
@@ -388,7 +388,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28877-developers-livechatinc-com.jpg
   humanURL: https://www.livechatinc.com/
   baseURL: https://api.livechatinc.com//
-  tags: SaaS, Technology, Chat, Support
+  tags: SaaS, Technology, Support, Chats
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-organizations/livechat/master/_listings/livechat/greetingsabc123-delete-postman.md
@@ -400,7 +400,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28877-developers-livechatinc-com.jpg
   humanURL: https://www.livechatinc.com/
   baseURL: https://api.livechatinc.com//
-  tags: SaaS, Technology, Chat, Support
+  tags: SaaS, Technology, Support, Chats
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-organizations/livechat/master/_listings/livechat/groupsgroup-id-get-postman.md
@@ -412,7 +412,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28877-developers-livechatinc-com.jpg
   humanURL: https://www.livechatinc.com/
   baseURL: https://api.livechatinc.com//
-  tags: SaaS, Technology, Chat, Support
+  tags: SaaS, Technology, Support, Chats
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-organizations/livechat/master/_listings/livechat/reportschatstotal-chats-get-postman.md
@@ -425,7 +425,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28877-developers-livechatinc-com.jpg
   humanURL: https://www.livechatinc.com/
   baseURL: https://api.livechatinc.com//
-  tags: SaaS, Technology, Chat, Support
+  tags: SaaS, Technology, Support, Chats
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-organizations/livechat/master/_listings/livechat/goals-get-postman.md
@@ -437,7 +437,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28877-developers-livechatinc-com.jpg
   humanURL: https://www.livechatinc.com/
   baseURL: https://api.livechatinc.com//
-  tags: SaaS, Technology, Chat, Support
+  tags: SaaS, Technology, Support, Chats
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-organizations/livechat/master/_listings/livechat/goals-post-postman.md
@@ -449,7 +449,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28877-developers-livechatinc-com.jpg
   humanURL: https://www.livechatinc.com/
   baseURL: https://api.livechatinc.com//
-  tags: SaaS, Technology, Chat, Support
+  tags: SaaS, Technology, Support, Chats
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-organizations/livechat/master/_listings/livechat/chats-get-postman.md
@@ -461,7 +461,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28877-developers-livechatinc-com.jpg
   humanURL: https://www.livechatinc.com/
   baseURL: https://api.livechatinc.com//
-  tags: SaaS, Technology, Chat, Support
+  tags: SaaS, Technology, Support, Chats
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-organizations/livechat/master/_listings/livechat/agents-get-postman.md
@@ -473,7 +473,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28877-developers-livechatinc-com.jpg
   humanURL: https://www.livechatinc.com/
   baseURL: https://api.livechatinc.com//
-  tags: SaaS, Technology, Chat, Support
+  tags: SaaS, Technology, Support, Chats
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-organizations/livechat/master/_listings/livechat/agents-post-postman.md
@@ -485,7 +485,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28877-developers-livechatinc-com.jpg
   humanURL: https://www.livechatinc.com/
   baseURL: https://api.livechatinc.com//
-  tags: SaaS, Technology, Chat, Support
+  tags: SaaS, Technology, Support, Chats
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-organizations/livechat/master/_listings/livechat/goalsabc123-get-postman.md
@@ -500,7 +500,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28877-developers-livechatinc-com.jpg
   humanURL: https://www.livechatinc.com/
   baseURL: https://api.livechatinc.com//
-  tags: SaaS, Technology, Chat, Support
+  tags: SaaS, Technology, Support, Chats
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-organizations/livechat/master/_listings/livechat/goalsabc123-put-postman.md
@@ -512,7 +512,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28877-developers-livechatinc-com.jpg
   humanURL: https://www.livechatinc.com/
   baseURL: https://api.livechatinc.com//
-  tags: SaaS, Technology, Chat, Support
+  tags: SaaS, Technology, Support, Chats
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-organizations/livechat/master/_listings/livechat/goalsabc123-delete-postman.md
@@ -524,7 +524,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28877-developers-livechatinc-com.jpg
   humanURL: https://www.livechatinc.com/
   baseURL: https://api.livechatinc.com//
-  tags: SaaS, Technology, Chat, Support
+  tags: SaaS, Technology, Support, Chats
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-organizations/livechat/master/_listings/livechat/reportsticketsratings-get-postman.md
@@ -536,7 +536,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28877-developers-livechatinc-com.jpg
   humanURL: https://www.livechatinc.com/
   baseURL: https://api.livechatinc.com//
-  tags: SaaS, Technology, Chat, Support
+  tags: SaaS, Technology, Support, Chats
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-organizations/livechat/master/_listings/livechat/tickets5fuedtags-put-postman.md
@@ -548,7 +548,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28877-developers-livechatinc-com.jpg
   humanURL: https://www.livechatinc.com/
   baseURL: https://api.livechatinc.com//
-  tags: SaaS, Technology, Chat, Support
+  tags: SaaS, Technology, Support, Chats
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-organizations/livechat/master/_listings/livechat/reportsticketsratingsranking-get-postman.md
@@ -561,7 +561,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28877-developers-livechatinc-com.jpg
   humanURL: https://www.livechatinc.com/
   baseURL: https://api.livechatinc.com//
-  tags: SaaS, Technology, Chat, Support
+  tags: SaaS, Technology, Support, Chats
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-organizations/livechat/master/_listings/livechat/reportschatsresponse-time-get-postman.md
@@ -575,7 +575,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28877-developers-livechatinc-com.jpg
   humanURL: https://www.livechatinc.com/
   baseURL: https://api.livechatinc.com//
-  tags: SaaS, Technology, Chat, Support
+  tags: SaaS, Technology, Support, Chats
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-organizations/livechat/master/_listings/livechat/reportsavailability-get-postman.md
@@ -587,7 +587,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28877-developers-livechatinc-com.jpg
   humanURL: https://www.livechatinc.com/
   baseURL: https://api.livechatinc.com//
-  tags: SaaS, Technology, Chat, Support
+  tags: SaaS, Technology, Support, Chats
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-organizations/livechat/master/_listings/livechat/chatsabc123tags-put-postman.md
@@ -600,7 +600,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28877-developers-livechatinc-com.jpg
   humanURL: https://www.livechatinc.com/
   baseURL: https://api.livechatinc.com//
-  tags: SaaS, Technology, Chat, Support
+  tags: SaaS, Technology, Support, Chats
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-organizations/livechat/master/_listings/livechat/visitors-get-postman.md
@@ -613,7 +613,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28877-developers-livechatinc-com.jpg
   humanURL: https://www.livechatinc.com/
   baseURL: https://api.livechatinc.com//
-  tags: SaaS, Technology, Chat, Support
+  tags: SaaS, Technology, Support, Chats
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-organizations/livechat/master/_listings/livechat/reportsticketsresolution-time-get-postman.md
@@ -628,7 +628,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28877-developers-livechatinc-com.jpg
   humanURL: https://www.livechatinc.com/
   baseURL: https://api.livechatinc.com//
-  tags: SaaS, Technology, Chat, Support
+  tags: SaaS, Technology, Support, Chats
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-organizations/livechat/master/_listings/livechat/tagssupport-delete-postman.md
@@ -640,7 +640,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28877-developers-livechatinc-com.jpg
   humanURL: https://www.livechatinc.com/
   baseURL: https://api.livechatinc.com//
-  tags: SaaS, Technology, Chat, Support
+  tags: SaaS, Technology, Support, Chats
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-organizations/livechat/master/_listings/livechat/reportschatsgoals-get-postman.md
@@ -653,7 +653,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28877-developers-livechatinc-com.jpg
   humanURL: https://www.livechatinc.com/
   baseURL: https://api.livechatinc.com//
-  tags: SaaS, Technology, Chat, Support
+  tags: SaaS, Technology, Support, Chats
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-organizations/livechat/master/_listings/livechat/reportschatsqueued-visitors-get-postman.md
@@ -665,7 +665,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28877-developers-livechatinc-com.jpg
   humanURL: https://www.livechatinc.com/
   baseURL: https://api.livechatinc.com//
-  tags: SaaS, Technology, Chat, Support
+  tags: SaaS, Technology, Support, Chats
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-organizations/livechat/master/_listings/livechat/reportschatsqueued-visitorswaiting-times-get-postman.md
@@ -679,7 +679,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28877-developers-livechatinc-com.jpg
   humanURL: https://www.livechatinc.com/
   baseURL: https://api.livechatinc.com//
-  tags: SaaS, Technology, Chat, Support
+  tags: SaaS, Technology, Support, Chats
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-organizations/livechat/master/_listings/livechat/reportschatschatting-time-get-postman.md
@@ -691,7 +691,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28877-developers-livechatinc-com.jpg
   humanURL: https://www.livechatinc.com/
   baseURL: https://api.livechatinc.com//
-  tags: SaaS, Technology, Chat, Support
+  tags: SaaS, Technology, Support, Chats
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-organizations/livechat/master/_listings/livechat/goalsabc123mark-as-successful-post-postman.md
@@ -704,7 +704,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28877-developers-livechatinc-com.jpg
   humanURL: https://www.livechatinc.com/
   baseURL: https://api.livechatinc.com//
-  tags: SaaS, Technology, Chat, Support
+  tags: SaaS, Technology, Support, Chats
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-organizations/livechat/master/_listings/livechat/status-get-postman.md
@@ -716,7 +716,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28877-developers-livechatinc-com.jpg
   humanURL: https://www.livechatinc.com/
   baseURL: https://api.livechatinc.com//
-  tags: SaaS, Technology, Chat, Support
+  tags: SaaS, Technology, Support, Chats
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-organizations/livechat/master/_listings/livechat/greetings2491-put-postman.md
@@ -729,7 +729,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28877-developers-livechatinc-com.jpg
   humanURL: https://www.livechatinc.com/
   baseURL: https://api.livechatinc.com//
-  tags: SaaS, Technology, Chat, Support
+  tags: SaaS, Technology, Support, Chats
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-organizations/livechat/master/_listings/livechat/reportsticketsfirst-response-time-get-postman.md
@@ -741,7 +741,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28877-developers-livechatinc-com.jpg
   humanURL: https://www.livechatinc.com/
   baseURL: https://api.livechatinc.com//
-  tags: SaaS, Technology, Chat, Support
+  tags: SaaS, Technology, Support, Chats
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-organizations/livechat/master/_listings/livechat/chatsabc123send-transcript-post-postman.md
@@ -754,7 +754,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28877-developers-livechatinc-com.jpg
   humanURL: https://www.livechatinc.com/
   baseURL: https://api.livechatinc.com//
-  tags: SaaS, Technology, Chat, Support
+  tags: SaaS, Technology, Support, Chats
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-organizations/livechat/master/_listings/livechat/reportschatsagents-occupancy-get-postman.md
@@ -766,7 +766,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28877-developers-livechatinc-com.jpg
   humanURL: https://www.livechatinc.com/
   baseURL: https://api.livechatinc.com//
-  tags: SaaS, Technology, Chat, Support
+  tags: SaaS, Technology, Support, Chats
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-organizations/livechat/master/_listings/livechat/visitorss1352647457-ac951bfe2edetails-post-postman.md
@@ -778,7 +778,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28877-developers-livechatinc-com.jpg
   humanURL: https://www.livechatinc.com/
   baseURL: https://api.livechatinc.com//
-  tags: SaaS, Technology, Chat, Support
+  tags: SaaS, Technology, Support, Chats
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-organizations/livechat/master/_listings/livechat/tickets5fued-get-postman.md
@@ -790,7 +790,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28877-developers-livechatinc-com.jpg
   humanURL: https://www.livechatinc.com/
   baseURL: https://api.livechatinc.com//
-  tags: SaaS, Technology, Chat, Support
+  tags: SaaS, Technology, Support, Chats
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-organizations/livechat/master/_listings/livechat/reportsticketsnew-tickets-get-postman.md

@@ -1,4 +1,3 @@
----
 swagger: "2.0"
 x-collection-name: LiveChat
 x-complete: 1
@@ -1186,4 +1185,3 @@ paths:
       tags:
       - New
       - Tickets
----

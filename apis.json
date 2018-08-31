@@ -1,0 +1,33 @@
+{
+	"name": "Streadata.io API Gallery - LiveChat",
+	"description": "This is a repository of livechat APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/livechat.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-30",
+	"url": "http://livechat.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "LiveChat",
+			"x-api-slug": "livechat",
+			"description": "LiveChat is an offline customer service software with live support, help desk software, and web analytics capabilities.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28877-developers-livechatinc-com.jpg",
+			"humanURL": "https://www.livechatinc.com/",
+			"baseURL": "https://api.livechatinc.com//",
+			"tags": "LiveChat",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/livechat/master/_listings/livechat/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "LiveChat",
+	"include": [
+		{
+			"name": "LiveChat",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/livechat/master/_listings/livechat/apis.yaml"
+		}
+	]
+}
